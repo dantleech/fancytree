@@ -2,6 +2,7 @@
     "name": "dantleech/fancytree",
     "type": "component",
     "require": {
-        "robloach/component-installer": "*"
+        "robloach/component-installer": "*",
+        "components/jquery": "1.9.1"
     }
 }
